@@ -1,0 +1,18 @@
+.navbar{
+  background-color: cyan;
+}
+
+.container {
+  background-color: lightcyan;
+}
+
+h1{
+  font-family: "Monotype Corsiva";
+  text-shadow: 0 0 2px cyan;
+  font-size: 44px;
+}
+
+a{
+  font-family: "Monotype Corsiva";
+  font-size: 28px;
+}
